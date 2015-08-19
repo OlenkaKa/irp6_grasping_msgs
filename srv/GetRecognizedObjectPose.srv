@@ -1,0 +1,7 @@
+string object_id
+---
+uint8 status
+object_recognition_msgs/RecognizedObject object
+uint8 NO_OBJECTS = 0
+uint8 REQUIRED_OBJECT_NOT_FOUND = 1
+uint8 REQUIRED_OBJECT_FOUND = 2
