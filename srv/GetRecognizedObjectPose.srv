@@ -1,4 +1,5 @@
 string object_id
+duration object_age
 ---
 uint8 status
 object_recognition_msgs/RecognizedObject object
