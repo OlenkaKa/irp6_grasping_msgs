@@ -1,0 +1,5 @@
+duration age
+uint8 limit
+---
+ObjectID[] object_ids
+
