@@ -58,6 +58,7 @@ add_message_files(
    DIRECTORY
    srv 
    FILES
+   EstimatePose.srv
    GetRecognizedObjectPose.srv
    GetRecognizedObjectsList.srv
 )
