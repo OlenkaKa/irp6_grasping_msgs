@@ -51,6 +51,7 @@ add_message_files(
    msg
    FILES
    ObjectID.msg
+   RecognizedObjectArray.msg
 )
 
 ## Generate services in the 'srv' folder
