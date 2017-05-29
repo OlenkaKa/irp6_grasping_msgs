@@ -1,2 +1,3 @@
 bool calculate_pose
+uint8 view_id
 ---
